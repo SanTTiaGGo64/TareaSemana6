@@ -24,6 +24,7 @@
                                     <ColumnDefinition/>
                                     <ColumnDefinition/>
                                 </Grid.ColumnDefinitions>
+                                
                                 <Label x:Name="lblcodigo" Text="{Binding codigo}" 
                                        Grid.Row="0"
                                        Grid.Column="0"/>
